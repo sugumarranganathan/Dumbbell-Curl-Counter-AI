@@ -16,7 +16,7 @@ from uploaded workout videos using YOLO Pose Estimation, OpenCV, and Gradio.
 
 Application Preview
 
-![AI Dumbbell Curl Counter](images/app.png)
+![Dumbbell Curl Counter AI](images/app.png)
 
 ---
 
